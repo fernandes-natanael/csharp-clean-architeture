@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\filho\\OneDrive\\Documentos\\work\\cu\\CleanArchMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71B51DBC-C878-4138-BFA1-A4A812F151DF}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|c:\\users\\filho\\onedrive\\documentos\\work\\cu\\cleanarchmvc\\cleanarchmvc.application\\mappings\\domaintodtomappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B51DBC-C878-4138-BFA1-A4A812F151DF}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|solutionrelative:cleanarchmvc.application\\mappings\\domaintodtomappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B51DBC-C878-4138-BFA1-A4A812F151DF}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|c:\\users\\filho\\onedrive\\documentos\\work\\cu\\cleanarchmvc\\cleanarchmvc.application\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B51DBC-C878-4138-BFA1-A4A812F151DF}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|solutionrelative:cleanarchmvc.application\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D22736-C9C5-4005-A7D4-684E0AFF2638}|CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj|c:\\users\\filho\\onedrive\\documentos\\work\\cu\\cleanarchmvc\\cleanarchmvc.infra.data\\entitiesconfiguration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D22736-C9C5-4005-A7D4-684E0AFF2638}|CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj|solutionrelative:cleanarchmvc.infra.data\\entitiesconfiguration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D22736-C9C5-4005-A7D4-684E0AFF2638}|CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj|c:\\users\\filho\\onedrive\\documentos\\work\\cu\\cleanarchmvc\\cleanarchmvc.infra.data\\entitiesconfiguration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D22736-C9C5-4005-A7D4-684E0AFF2638}|CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj|solutionrelative:cleanarchmvc.infra.data\\entitiesconfiguration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B51DBC-C878-4138-BFA1-A4A812F151DF}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|c:\\users\\filho\\onedrive\\documentos\\work\\cu\\cleanarchmvc\\cleanarchmvc.application\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B51DBC-C878-4138-BFA1-A4A812F151DF}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|solutionrelative:cleanarchmvc.application\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636F456B-10DC-454E-9A71-4DC5367DD168}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|c:\\users\\filho\\onedrive\\documentos\\work\\cu\\cleanarchmvc\\cleanarchmvc.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636F456B-10DC-454E-9A71-4DC5367DD168}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|solutionrelative:cleanarchmvc.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636F456B-10DC-454E-9A71-4DC5367DD168}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|c:\\users\\filho\\onedrive\\documentos\\work\\cu\\cleanarchmvc\\cleanarchmvc.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636F456B-10DC-454E-9A71-4DC5367DD168}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|solutionrelative:cleanarchmvc.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DomainToDTOMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\filho\\OneDrive\\Documentos\\work\\cu\\CleanArchMvc\\CleanArchMvc.Application\\Mappings\\DomainToDTOMappingProfile.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Application\\Mappings\\DomainToDTOMappingProfile.cs",
+              "ToolTip": "C:\\Users\\filho\\OneDrive\\Documentos\\work\\cu\\CleanArchMvc\\CleanArchMvc.Application\\Mappings\\DomainToDTOMappingProfile.cs",
+              "RelativeToolTip": "CleanArchMvc.Application\\Mappings\\DomainToDTOMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T22:31:37.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\filho\\OneDrive\\Documentos\\work\\cu\\CleanArchMvc\\CleanArchMvc.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\filho\\OneDrive\\Documentos\\work\\cu\\CleanArchMvc\\CleanArchMvc.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "CleanArchMvc.Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T22:25:46.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\filho\\OneDrive\\Documentos\\work\\cu\\CleanArchMvc\\CleanArchMvc.Application\\DTO\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Application\\DTO\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\filho\\OneDrive\\Documentos\\work\\cu\\CleanArchMvc\\CleanArchMvc.Application\\DTO\\ProductDTO.cs",
+              "RelativeToolTip": "CleanArchMvc.Application\\DTO\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T22:25:32.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\filho\\OneDrive\\Documentos\\work\\cu\\CleanArchMvc\\CleanArchMvc.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\filho\\OneDrive\\Documentos\\work\\cu\\CleanArchMvc\\CleanArchMvc.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "CleanArchMvc.Domain\\Entities\\Category.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T22:24:46.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\filho\\OneDrive\\Documentos\\work\\cu\\CleanArchMvc\\CleanArchMvc.Application\\DTO\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Application\\DTO\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\filho\\OneDrive\\Documentos\\work\\cu\\CleanArchMvc\\CleanArchMvc.Application\\DTO\\CategoryDTO.cs",
+              "RelativeToolTip": "CleanArchMvc.Application\\DTO\\CategoryDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T22:23:40.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\filho\\OneDrive\\Documentos\\work\\cu\\CleanArchMvc\\CleanArchMvc.Infra.Data\\EntitiesConfiguration\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Infra.Data\\EntitiesConfiguration\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\filho\\OneDrive\\Documentos\\work\\cu\\CleanArchMvc\\CleanArchMvc.Infra.Data\\EntitiesConfiguration\\CategoryConfiguration.cs",
+              "RelativeToolTip": "CleanArchMvc.Infra.Data\\EntitiesConfiguration\\CategoryConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T20:37:10.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\filho\\OneDrive\\Documentos\\work\\cu\\CleanArchMvc\\CleanArchMvc.Infra.Data\\EntitiesConfiguration\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Infra.Data\\EntitiesConfiguration\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\filho\\OneDrive\\Documentos\\work\\cu\\CleanArchMvc\\CleanArchMvc.Infra.Data\\EntitiesConfiguration\\ProductConfiguration.cs",
+              "RelativeToolTip": "CleanArchMvc.Infra.Data\\EntitiesConfiguration\\ProductConfiguration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T20:38:52.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
